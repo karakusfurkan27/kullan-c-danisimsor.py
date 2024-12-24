@@ -1,7 +1,3 @@
-Aşağıda verdiğiniz Python kodu için Türkçe bir README dosyası örneği bulunmaktadır:
-
----
-
 # Kullanıcı Adı ve Renk Tercihi Programı
 
 Bu Python programı, kullanıcıdan ismini ve beğendiği rengi alır ve ardından bu bilgileri kullanarak kullanıcıya kişisel bir mesaj gösterir.
